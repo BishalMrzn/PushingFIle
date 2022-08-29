@@ -1,2 +1,6 @@
 <?php
-echo "Time To Shine";
+$P=10000;
+$T=3;
+$R=4;
+$SI=($P*$T*$R)/100;
+echo $SI;
